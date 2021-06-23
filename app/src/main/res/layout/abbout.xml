@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bogomolov.mynotes.ShowNote"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/ver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ver_1"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/ver_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ver_2"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/ver_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dis"
+        android:textColor="@color/black"/>
+
+
+</LinearLayout>

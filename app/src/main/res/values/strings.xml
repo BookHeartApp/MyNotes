@@ -3,7 +3,23 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="button_add_note">+</string>
-    <string name="button_add_note">+</string>
+
+
+    <string name="NoteExamp">Наименование записи</string>
+    <string name="DateExamp">01.01.2021</string>
+    <string name="DescriptionExamp">Содержание</string>
+
+    <string name="about">О приложении</string>
+    <string name="favorite">Favorite</string>
+    <string name="main">Main</string>
+    <string name="search">search</string>
+    <string name="fragment_navigation">Меню</string>
+    <string name="theme">Сменить тему приложения</string>
+    <string name="ver_1">О приложении</string>
+    <string name="ver_2">Версия приложения 1.0</string>
+    <string name="dis">Разработчик Богомолов К.О.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
 
 </resources>
